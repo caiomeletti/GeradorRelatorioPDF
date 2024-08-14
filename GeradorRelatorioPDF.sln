@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeradorRelatorioPDF", "GeradorRelatorio\GeradorRelatorioPDF.csproj", "{BB4EAF89-AE71-4007-9A77-4D6F46D9AF81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{D8285CDB-E2C1-4F5E-B25B-2595D79FE0D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{D8285CDB-E2C1-4F5E-B25B-2595D79FE0D9}"
 EndProject
 Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "WapProj", "WapProj\WapProj.wapproj", "{15AF923D-63F6-46B1-961C-84D9AC331EEE}"
 EndProject
@@ -64,7 +64,6 @@ Global
 		{D8285CDB-E2C1-4F5E-B25B-2595D79FE0D9}.Release|x86.ActiveCfg = Release|Any CPU
 		{D8285CDB-E2C1-4F5E-B25B-2595D79FE0D9}.Release|x86.Build.0 = Release|Any CPU
 		{15AF923D-63F6-46B1-961C-84D9AC331EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{15AF923D-63F6-46B1-961C-84D9AC331EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15AF923D-63F6-46B1-961C-84D9AC331EEE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{15AF923D-63F6-46B1-961C-84D9AC331EEE}.Debug|ARM.ActiveCfg = Debug|ARM
 		{15AF923D-63F6-46B1-961C-84D9AC331EEE}.Debug|ARM.Build.0 = Debug|ARM
